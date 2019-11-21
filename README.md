@@ -1,7 +1,6 @@
 1. Aturan Permainan GoRas Ludo Games
 
-      Permainan GoRas Ludo Games dimainkan oleh dua hingga empat orang, Pemain minimal terdiri dari 2 pemain (1 user dan 1 komputer) dan maksimal 4 pemain ( 1 user dan 3 komputer).
-Setiap pemain mendapatkan empat buah pion dengan warna sesuai dengan pilihan masingmasing, pion-pion tersebut digerakkan searah dengan jarum jam, berjalan memutar sesuai dengan jalur yang ada pada papan, untuk mencapai kotak tujuan yang berada di tengah papan, seperti yang telah dijelaskan pada gambar 2.1. Peraturan pada GoRas Ludo Games adalah sebagai berikut :
+      Permainan GoRas Ludo Games dimainkan oleh dua hingga empat orang, Pemain minimal terdiri dari 2 pemain (1 user dan 1 komputer) dan maksimal 4 pemain ( 1 user dan 3 komputer).Setiap pemain mendapatkan empat buah bidak dengan penamaan tiap bidak (1, 2, 3, 4) , bidak - bidak tersebut digerakkan searah dengan jarum jam, berjalan memutar sesuai dengan jalur yang ada pada papan, untuk mencapai kotak tujuan yang berada di tengah papan, seperti yang telah dijelaskan pada gambar 2.1. Peraturan pada GoRas Ludo Games adalah sebagai berikut :
 
             •Pemain melemparkan dadu secara bergantian.
             •Untuk dapat mengeluarkan bidak ke jalur permainan, pemain harus mendapatkan angka enam dari dadu yang dilemparkan.
