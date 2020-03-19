@@ -14,10 +14,10 @@
             
             <table class="table table-bordered table-stripd" id="employee_table">
                 <tr style="background: rgb(105, 105, 253);color:white;">
+                    <th>Images</th>
                     <th>New</th>
                     <th>Name</th>
                     <th>Price</th>
-                    <th>Images</th>
                 </tr>
             </table>
         </div>
@@ -31,10 +31,10 @@
             var ini = '';
             $.each(data, function(key, value){
                 ini += '<tr>';
+                ini += '<td>'+value.thumb_img+'</td>'
                 ini += '<td>'+value.new+'</td>'
                 ini += '<td>'+value.name+'</td>'
                 ini += '<td>'+value.price+'</td>'
-                ini += '<td>'+value.thumb_img+'</td>'
                 ini += '</tr>'
             });
             $('#employee_table').append(ini);
