@@ -31,7 +31,7 @@
             var ini = '';
             $.each(data, function(key, value){
                 ini += '<tr>';
-                ini += '<td>'+value.thumb_img+'</td>'
+                ini += '<td>'+ '<img src="' + value.thumb_img+ '">' + '</td>'
                 ini += '<td>'+value.new+'</td>'
                 ini += '<td>'+value.name+'</td>'
                 ini += '<td>'+value.price+'</td>'
